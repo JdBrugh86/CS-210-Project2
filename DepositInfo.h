@@ -3,12 +3,6 @@
  * Eric Gregori
  * 09/30/2023
  * Takes in client input and outputs deposit info in two charts, one with and one without monthly deposits.
- * 
- * I cannot get the header file to link to the .cpp file in my IDE or command line, which I have 
- * minimal experience using right now. I don't know what is wrong and have looked at several
- * forums online for answers with no luck. The program compiles fine when the source file is added to main.
- * I meant to submit a question on our class forum but this weekhad too many things going for me.
- * No excuse, just explanation.
  */
 
 #ifndef DEPOSITINFO_H
